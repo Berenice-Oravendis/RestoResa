@@ -19,7 +19,7 @@ Commence par consulter les issues du projet.
 
 Les issues marquées "good first issue" sont idéales pour débuter.
 
-Forke le dépôt
+Forke le dépôt.
 
 Clique sur “Fork” en haut à droite du dépôt GitHub.
 
