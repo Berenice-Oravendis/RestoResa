@@ -1,6 +1,6 @@
 🍽️ RestoResa
 RestoResa est une application web (fictive) de réservation de restaurants. Elle permet aux utilisateurs de découvrir, réserver et évaluer des établissements en quelques clics. 
-Le projet permet d’expérimenter les workflows de contribution, les pull requests, la gestion d’issues et le versionnement collaboratif, comme dans un environnement professionnel réel.
+cdLe projet permet d’expérimenter les workflows de contribution, les pull requests, la gestion d’issues et le versionnement collaboratif, comme dans un environnement professionnel réel.
 
 
 Pour bien démarrer
@@ -13,12 +13,7 @@ Avant de cloner le projet, assure-toi d’avoir installé :
 - Un éditeur de code (VS Code recommandé)
 - Un navigateur moderne type Google Chrome 
 
-Installation locale
-1. Clone le dépôt sur ta machine :
-
-```bash
-git clone https://github.com/Berenice-Oravendis/restoresa.git 
-cd restoresa
+Installation localeg
 ````
 
 2. Installe les dépendances :
