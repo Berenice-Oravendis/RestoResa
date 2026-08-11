@@ -6,7 +6,7 @@ Pour bien démarrer
 Ce guide te permettra d’exécuter une version locale du projet pour le développement et les tests.  
 La section _Déploiement_ décrit comment mettre le projet en production.
 
-Prérequis
+Prérequis : test test !!
 Avant de cloner le projet, assure-toi d’avoir installé :
 - Git
 - Un éditeur de code (VS Code recommandé)
