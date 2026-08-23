@@ -2,12 +2,11 @@
 RestoResa est une application web (fictive) de réservation de restaurants. Elle permet aux utilisateurs de découvrir, réserver et évaluer des établissements en quelques clics. 
 Le projet permet d’expérimenter les workflows de contribution, les pull requests, la gestion d’issues et le versionnement collaboratif, comme dans un environnement professionnel réel.
 
-
 Pour bien démarrer
 Ce guide te permettra d’exécuter une version locale du projet pour le développement et les tests.  
 La section _Déploiement_ décrit comment mettre le projet en production.
 
-Prérequis
+Prérequis : avoir installé Node.js, un navigateur web et un compte GitHub
 Avant de cloner le projet, assure-toi d’avoir installé :
 - Git
 - Un éditeur de code (VS Code recommandé)
