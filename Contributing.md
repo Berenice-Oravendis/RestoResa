@@ -9,6 +9,7 @@ RestoResa recherche des contributeurs pour :
 - Améliorer la documentation
 - Travailler sur l’interface ou l’accessibilité
 - Optimiser les performances
+- test test test 
 
 Tous les profils sont les bienvenus, que tu sois débutant·e ou expérimenté·e. Le plus important, c’est l’envie de construire quelque chose de collaboratif et utile. 
 
