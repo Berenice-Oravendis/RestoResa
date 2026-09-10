@@ -57,6 +57,7 @@ Merci de lire les fichiers suivants avant toute contribution :
 
 Auteurs
 * Berenice-Oravendis – Mainteneur principal
+* Théo Test
 * Contributions bienvenues via pull requests !
 
 
