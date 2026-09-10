@@ -12,7 +12,7 @@ La section _Déploiement_ décrit comment mettre le projet en production.
 Prérequis
 Avant de cloner le projet, assure-toi d’avoir installé :
 - Git
-- Un éditeur de code (VS Code recommandé)
+-
 - Un navigateur moderne type Google Chrome 
 
 Installation locale
