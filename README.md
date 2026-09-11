@@ -5,7 +5,7 @@ RestoResa est une application web fictive de réservation de restaurants.
 
 Elle permet aux utilisateurs de découvrir, réserver et évaluer des établissements en quelques clics.
 
-Le projet permet d’expérimenter les workflows de contribution, les pull requests, la gestion d’issues et le versionnement collaboratif, comme dans un environnement professionnel réel.
+« Le projet permet d’expérimenter les workflows de contribution, les pull requests, la gestion d’issues et le versionnement collaboratif, comme dans un environnement professionnel réel. »
 
 ## Pour bien démarrer
 
@@ -32,6 +32,9 @@ Avant de commencer, assure-toi d’avoir :
 - un éditeur de code, comme Visual Studio Code ;
 - un navigateur web moderne ;
 - un compte GitHub personnel.
+- un peu de détermination.
+- un désir d'apprendre.
+
 
 ## Travailler sur le projet en local
 
@@ -117,6 +120,7 @@ Dans un véritable projet professionnel, un autre membre de l’équipe pourrait
 
 * Berenice-Oravendis – Mainteneur principal
 * Contributions bienvenues via les pull requests !
+theo van -uxen
 
 ## Licence
 
