@@ -4,7 +4,7 @@ Ton engagement participe directement à la création d’une application de rés
 
 Que peut-on faire ensemble ?
 RestoResa recherche des contributeurs pour :
-- Corriger des bugs.
+- Corriger des bugs
 - Ajouter de nouvelles fonctionnalités
 - Améliorer la documentation
 - Travailler sur l’interface ou l’accessibilité

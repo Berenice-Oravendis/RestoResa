@@ -120,6 +120,7 @@ Dans un véritable projet professionnel, un autre membre de l’équipe pourrait
 
 * Berenice-Oravendis – Mainteneur principal
 * Contributions bienvenues via les pull requests !
+theo van -uxen
 
 ## Licence
 
