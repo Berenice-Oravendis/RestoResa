@@ -32,6 +32,7 @@ Avant de commencer, assure-toi d’avoir :
 - un éditeur de code, comme Visual Studio Code ;
 - un navigateur web moderne ;
 - un compte GitHub personnel.
+un peu de détermination.
 
 ## Travailler sur le projet en local
 
